@@ -22,7 +22,7 @@ module.exports = function(grunt) {
         var options = this.options({
             algorithm: 'binary-tree',
             baseUrl: './',
-            engine: 'auto',
+            engine: 'pixelsmith',
             padding: 2
         });
 
